@@ -6,4 +6,4 @@ Rationale: For Namu, some basic functionalities that we want to implement includ
 
 Tutorial: https://www.youtube.com/watch?v=hQAHSlTtcmY&t=406s
 
-Video of my result: 
+Video of my result: https://drive.google.com/file/d/1QrMmCKsSPj5xH7ynajqjQnyJli-PgQJG/view?usp=sharing 
